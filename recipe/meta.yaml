@@ -1,6 +1,6 @@
 {% set name = "nsls2-detector-handlers" %}
-{% set version = "0.0.3" %}
-{% set sha256 = "cba05310d9192212cab61300b08f7dbfb0181756e4c5292d0c2f266a72cbf37e" %}
+{% set version = "0.1.0" %}
+{% set sha256 = "433d4dda1feed294faff39b855a3106bb2bab5d47d83a61a766d6e5158cd1804" %}
 
 package:
   name: {{ name|lower }}
